@@ -11,7 +11,7 @@ A. Because not everyone is technically capable, or wants to use [Terahelper](htt
 
 Q. **What if I want the original format?**
 
-A. Download Terahelper linked above and dump it yourself. It's incredibly simple.
+A. You'll need to dump it yourself using Terahelper as I listed above.
 ##
 
 Q. **Am I allowed to use these icons?**
