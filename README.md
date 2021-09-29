@@ -22,6 +22,9 @@ A. Hell if I know. I'm not the copyright holder, nor am I liable for any damages
 ## Changelog
 <details>
 
+ ### 1.2.0 (9/28/2021)
+- v110 dump.
+
  ### 1.1.1 (8/6/2021)
 - Github desktop too slow. :^)
 
