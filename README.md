@@ -1,6 +1,6 @@
 # TERA Icon Dump
 
-A `.PNG` converted dump of TERA's Icons. May not be up to date. Please check the description (should be to the right on PC) to see what version this is for. I play on the Gameforge release, and I may not update this unless I feel a reason to do so. If you can't find an icon, you can ask me (`@Ambush#0001`) to dump it again. Might take a bit though even after asking.
+A `.PNG` converted dump of TERA's Icons. May not be up to date. Please check the description (should be to the right on PC) to see what version this is for. I play on the Gameforge release, and I may not update this unless I feel a reason to do so. If you can't find an icon, you can ask me (`@Hail#0011`) to dump it again. Might take a bit though even after asking.
 
 
 ## FAQ
@@ -21,6 +21,9 @@ A. Hell if I know. I'm not the copyright holder, nor am I liable for any damages
 
 ## Changelog
 <details>
+
+ ### 1.4.0 (2/8/2022)
+- v114 dump.
 
  ### 1.3.0 (12/2/2021)
 - v112 dump.
