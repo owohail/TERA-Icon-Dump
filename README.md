@@ -22,6 +22,9 @@ A. Hell if I know. I'm not the copyright holder, nor am I liable for any damages
 ## Changelog
 <details>
 
+ ### 1.5.0 (3/24/2022)
+- v115 dump.
+
  ### 1.4.0 (2/8/2022)
 - v114 dump.
 
