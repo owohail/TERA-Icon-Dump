@@ -1,17 +1,23 @@
 # TERA Icon Dump
+**May not be up to date, always refer to the version on the repository description.**
 
-A `.PNG` converted dump of TERA's Icons. May not be up to date. Please check the description (should be to the right on PC) to see what version this is for. I play on the Gameforge release, and I may not update this unless I feel a reason to do so. If you can't find an icon, you can ask me (`@Hail#0011`) to dump it again. Might take a bit though even after asking.
+This repository contains a dump of TERA's icons in a `.PNG` format. A `.PNG` converted dump of TERA's Icons. You can get icon dumps from v107+ from the releases tab in a `.ZIP` archive. You can alternatively just download the repository's code from the top right on Desktop (code -> download zip) for the current dump.
 
 
 ## FAQ
-Q. **Why did you upload this?**
+Q. **Will this continue being updated?**
 
-A. Because not everyone is technically capable, or wants to use [Terahelper](https://github.com/GoneUp/GPK_RePack) to dump the icons. Some people also don't want to deal with converting them all to a more workable format (`.PNG`). I couldn't find a dump online, and I felt it would be really nice to have one because I genuinely don't like having to do the dirty work. Lots of people use the icons for a huge variety of things, so why not just dump it?
+A. I quit TERA so there's a good chance this will no longer be updated as the icon dump requires the icon `.GPK` files from the client. I'll leave the repository up for anyone who finds a use for outdated files, or gets use out of the readme to figure out how to dump them for a more recent version.
 ##
 
-Q. **What if I want the original format?**
+Q. **Why did you upload this?**
 
-A. You'll need to dump it yourself using Terahelper as I listed above.
+A. I needed the files in a `.PNG` format, and I was pretty annoyed that I had to convert them from their default `.DDS` file format to the `.PNG` file format. I figured that I'd save people from having to do the work themselves and upload the `.PNG` converted files to github.
+##
+
+Q. **What if I want the original .DDS format?**
+
+A. You'll need to dump it yourself using [Terahelper](https://github.com/GoneUp/GPK_RePack) as I listed above.
 ##
 
 Q. **Am I allowed to use these icons?**
@@ -21,6 +27,9 @@ A. Hell if I know. I'm not the copyright holder, nor am I liable for any damages
 
 ## Changelog
 <details>
+ 
+  ### 1.5.1 (4/6/2022)
+- Readme update.
 
  ### 1.5.0 (3/24/2022)
 - v115 dump.
