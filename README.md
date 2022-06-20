@@ -32,6 +32,10 @@ A. Hell if I know. I'm not the copyright holder, nor am I liable for any damages
 
 ## Changelog
 <details>
+
+ ### 1.5.3.1 (6/19/2022)
+- Fixed readme. :^)
+ 
  ### 1.5.3 (6/16/2022)
 - Prepared repo for archival.
  
